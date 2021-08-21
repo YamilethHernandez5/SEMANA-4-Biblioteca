@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA 4 Biblioteca", "SEMANA 4 Biblioteca\SEMANA 4 Biblioteca.csproj", "{3DCDBF86-AB13-4325-9333-F79A970AE79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENANA 4 Consola", "SENANA 4 Consola\SENANA 4 Consola.csproj", "{696E6EF0-0B1F-4B61-98D6-87F73FE2EEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCDBF86-AB13-4325-9333-F79A970AE79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCDBF86-AB13-4325-9333-F79A970AE79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCDBF86-AB13-4325-9333-F79A970AE79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCDBF86-AB13-4325-9333-F79A970AE79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696E6EF0-0B1F-4B61-98D6-87F73FE2EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696E6EF0-0B1F-4B61-98D6-87F73FE2EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696E6EF0-0B1F-4B61-98D6-87F73FE2EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696E6EF0-0B1F-4B61-98D6-87F73FE2EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A051BB-D0DA-479C-AB88-7657B962F8AB}
+	EndGlobalSection
+EndGlobal
